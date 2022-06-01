@@ -8,5 +8,4 @@ int main() {
   std::cout << "7 8 9 10\n";
   
   return 0;
-
 }
